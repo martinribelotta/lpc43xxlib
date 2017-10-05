@@ -34,9 +34,3 @@
 #define CHIP_LPC43XX
 
 #endif /* __SYS_CONFIG_H_ */
-
-
-
-
-
-
